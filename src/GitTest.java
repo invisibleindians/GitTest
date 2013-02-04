@@ -1,7 +1,6 @@
-
 public class GitTest {
 	public static void main(String[] args) {
-	    System.out.println("Git is fun11111111111");
+	    System.out.println("Git is fun.. From The web");
 	  }
 
 }
